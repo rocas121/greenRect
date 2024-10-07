@@ -31,6 +31,18 @@ void movement() {
 		p.y += speed;
 	}
 
+	if (p.x > width-50) {
+		p.x -= speed;
+	}
+	else if (p.x < 0) {
+		p.x += speed;
+	}
+	if (p.y > height-50) {
+		p.y -= speed;
+	}
+	else if (p.y < 0) {
+		p.y += speed;
+	}
 }
 
 //fermeture fenetre
