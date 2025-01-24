@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F781905B-1377-42FF-904A-ADD17BD5F672}|SDL_Rattrapage\\SDL_Rattrapage.vcxproj|C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F781905B-1377-42FF-904A-ADD17BD5F672}|SDL_Rattrapage\\SDL_Rattrapage.vcxproj|solutionrelative:SDL_Rattrapage\\render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781905B-1377-42FF-904A-ADD17BD5F672}|SDL_Rattrapage\\SDL_Rattrapage.vcxproj|C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F781905B-1377-42FF-904A-ADD17BD5F672}|SDL_Rattrapage\\SDL_Rattrapage.vcxproj|solutionrelative:SDL_Rattrapage\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781905B-1377-42FF-904A-ADD17BD5F672}|SDL_Rattrapage\\SDL_Rattrapage.vcxproj|C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\cat.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F781905B-1377-42FF-904A-ADD17BD5F672}|SDL_Rattrapage\\SDL_Rattrapage.vcxproj|solutionrelative:SDL_Rattrapage\\cat.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "render.c",
+              "DocumentMoniker": "C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\render.c",
+              "RelativeDocumentMoniker": "SDL_Rattrapage\\render.c",
+              "ToolTip": "C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\render.c",
+              "RelativeToolTip": "SDL_Rattrapage\\render.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-24T08:28:09.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "render.h",
+              "DocumentMoniker": "C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\render.h",
+              "RelativeDocumentMoniker": "SDL_Rattrapage\\render.h",
+              "ToolTip": "C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\render.h",
+              "RelativeToolTip": "SDL_Rattrapage\\render.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T08:28:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cat.bmp",
+              "DocumentMoniker": "C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\cat.bmp",
+              "RelativeDocumentMoniker": "SDL_Rattrapage\\cat.bmp",
+              "ToolTip": "C:\\Users\\rzhang\\Desktop\\repos\\greenRect\\SDL_Rattrapage\\cat.bmp",
+              "RelativeToolTip": "SDL_Rattrapage\\cat.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-24T08:27:24.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

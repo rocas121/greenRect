@@ -24,6 +24,7 @@
     <ProjectGuid>{f781905b-1377-42ff-904a-add17bd5f672}</ProjectGuid>
     <RootNamespace>SDLRattrapage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Game</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
