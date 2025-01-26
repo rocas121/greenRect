@@ -6,7 +6,6 @@
 
 
 
-
 //fonctions 
 void Init();
 void Destroy();
